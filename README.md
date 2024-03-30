@@ -1,2 +1,2 @@
 # Restaurant-website
-Made using html and css
+Web page was made using html and css
